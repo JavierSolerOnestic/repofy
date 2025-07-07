@@ -2,6 +2,7 @@
   "name": "@repofy/shopify-apps",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "description": "",
   "scripts": {
     "dev": "echo \"from shopify root\""
