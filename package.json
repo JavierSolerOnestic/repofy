@@ -9,7 +9,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "turbo run dev",
-    "build:all": "turbo run build"
+    "build:all": "turbo run build",
+    "create:shopify-app": "cd packages/shopify-apps && pnpm shopify app init"
   },
   "keywords": [],
   "author": "",
